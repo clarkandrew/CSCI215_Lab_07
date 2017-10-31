@@ -1,7 +1,7 @@
 # CSCI215_Lab_07
 Event Object usage
 
-Name: _______________________________________
+Name: Andrew Clark
 
 ## DUE: 30 Oct 2017 @ 11:59 pm
 
